@@ -1,0 +1,38 @@
+body {
+    font-family: "PT Sans Narrow", sans-serif;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    line-height: 18px;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 14px;
+    text-transform: none;
+
+}
+
+.item-brand-name {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.main-menu {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.btn {
+    color: #ffffff;
+
+}
+
